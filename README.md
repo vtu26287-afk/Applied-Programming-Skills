@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -77,10 +78,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
