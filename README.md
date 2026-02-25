@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0933-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
