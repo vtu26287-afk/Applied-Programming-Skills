@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -89,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
