@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0704-binary-search) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0542-01-matrix) |
 ## String
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0210-course-schedule-ii) |
+| [0542-01-matrix](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
 ## Topological Sort
 |  |
