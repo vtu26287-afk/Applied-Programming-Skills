@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0200-number-of-islands) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0621-task-scheduler](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0721-accounts-merge](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
