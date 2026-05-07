@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0733-flood-fill) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0621-task-scheduler](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0997-find-the-town-judge](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 ## Sliding Window
 |  |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0721-accounts-merge](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 ## Queue
 |  |
 | ------- |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0841-keys-and-rooms) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -150,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
@@ -173,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
