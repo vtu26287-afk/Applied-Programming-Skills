@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
+| [0257-binary-tree-paths](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0721-accounts-merge](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0733-flood-fill) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
 |  |
@@ -241,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0210-course-schedule-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
