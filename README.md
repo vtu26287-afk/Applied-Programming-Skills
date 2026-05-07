@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Two Pointers
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+| [0997-find-the-town-judge](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 ## Sliding Window
 |  |
 | ------- |
@@ -151,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
