@@ -4,42 +4,41 @@ class Solution {
 
     public int[] topKFrequent(int[] nums, int k) {
 
-        // Frequency map
-        Map<Integer, Integer> frequencyMap = new HashMap<>();
+        HashMap<Integer, Integer> map = new HashMap<>();
 
+        // Count frequency
         for (int num : nums) {
-            frequencyMap.put(num,
-                frequencyMap.getOrDefault(num, 0) + 1);
+            map.put(num, map.getOrDefault(num, 0) + 1);
         }
 
-        // Bucket sort
-        List<Integer>[] buckets = new ArrayList[nums.length + 1];
+        // Bucket array
+        List<Integer>[] bucket = new ArrayList[nums.length + 1];
 
-        for (int key : frequencyMap.keySet()) {
+        for (int key : map.keySet()) {
 
-            int frequency = frequencyMap.get(key);
+            int freq = map.get(key);
 
-            if (buckets[frequency] == null) {
-                buckets[frequency] = new ArrayList<>();
+            if (bucket[freq] == null) {
+                bucket[freq] = new ArrayList<>();
             }
 
-            buckets[frequency].add(key);
+            bucket[freq].add(key);
         }
 
         int[] result = new int[k];
         int index = 0;
 
-        // Traverse buckets from high frequency to low
-        for (int i = buckets.length - 1; i >= 0 && index < k; i--) {
+        // Traverse from highest frequency
+        for (int i = bucket.length - 1; i >= 0; i--) {
 
-            if (buckets[i] != null) {
+            if (bucket[i] != null) {
 
-                for (int num : buckets[i]) {
+                for (int num : bucket[i]) {
 
                     result[index++] = num;
 
                     if (index == k) {
-                        break;
+                        return result;
                     }
                 }
             }
