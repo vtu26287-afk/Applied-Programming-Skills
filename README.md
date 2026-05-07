@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
