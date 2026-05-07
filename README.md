@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/1971-find-if-path-exists-in-graph) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
