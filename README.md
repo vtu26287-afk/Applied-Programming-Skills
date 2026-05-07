@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0542-01-matrix) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
 ## Topological Sort
