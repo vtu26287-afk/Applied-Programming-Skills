@@ -126,10 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -142,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0933-number-of-recent-calls) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
