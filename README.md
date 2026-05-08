@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0746-min-cost-climbing-stairs) |
 | [0929-unique-email-addresses](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0929-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/vtu26287-afk/Applied-Programming-Skills/tree/master/0746-min-cost-climbing-stairs) |
 ## String
 |  |
 | ------- |
